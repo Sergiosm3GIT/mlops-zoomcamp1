@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sergi/Documents/MLOps%20Zoomcamp/Tarea%202/mlruns/923548493525019764/09f4e156ca4f4c7faf71955e89a7ce8a/artifacts
+end_time: 1717352764795
+entry_point_name: ''
+experiment_id: '923548493525019764'
+lifecycle_stage: active
+run_id: 09f4e156ca4f4c7faf71955e89a7ce8a
+run_name: mysterious-ray-822
+run_uuid: 09f4e156ca4f4c7faf71955e89a7ce8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717352739598
+status: 3
+tags: []
+user_id: sergi

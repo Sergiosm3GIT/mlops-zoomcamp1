@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sergi/Documents/MLOps%20Zoomcamp/Tarea%202/mlruns/923548493525019764/8404456665bb40e892e82fc50587045b/artifacts
+end_time: 1717351667047
+entry_point_name: ''
+experiment_id: '923548493525019764'
+lifecycle_stage: active
+run_id: 8404456665bb40e892e82fc50587045b
+run_name: vaunted-quail-86
+run_uuid: 8404456665bb40e892e82fc50587045b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717351654442
+status: 3
+tags: []
+user_id: sergi
